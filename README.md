@@ -60,6 +60,7 @@ Upload to the board.
 Retrieve the printed IP address from the Serial Monitor and update it in master_system.py.
 
 🤝 Collaborators
+
 N Harsha - System Architecture, Computer Vision, Embedded Hardware
 
 N. Harshini - Collaboration & Testing
