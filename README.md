@@ -47,7 +47,7 @@ pip install -r requirements.txt
 # Run the master system
 python master_system.py
 ESP32 Setup
-Open esp32_embedded_control/esp32_car_receiver.ino in the Arduino IDE.
+Open esp32_car_receiver.ino in the Arduino IDE.
 
 Update the ssid and password variables to match your 2.4GHz Wi-Fi hotspot.
 
@@ -56,7 +56,6 @@ Select your ESP32 board and configure the baud rate to 115200.
 Upload to the board.
 
 Retrieve the printed IP address from the Serial Monitor and update it in master_system.py.
-
 🤝 Collaborators
 N Harsha - System Architecture, Computer Vision, Embedded Hardware
 
