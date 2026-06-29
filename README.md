@@ -47,7 +47,7 @@ pip install -r requirements.txt
 # Run the master system
 python master_system.py
 ```
-###ESP32 Setup
+### ESP32 Setup
 
 Open esp32_car_receiver.ino in the Arduino IDE.
 
